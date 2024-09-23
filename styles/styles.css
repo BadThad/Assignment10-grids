@@ -1,0 +1,50 @@
+body {
+    height: 900px;
+    width: 1440px;
+    display: grid;
+    grid-gap: 24px;
+}
+
+.grid-element-first {
+    background-color: #007F5F;
+}
+
+.grid-element-second {
+    background-color: #2B9348;
+}
+
+.grid-element-third {
+    background-color: #80B918;
+}
+
+.grid-element-fourth {
+    background-color: #DDDF00;
+}
+
+.grid-element-fifth {
+    background-color: #EEEF20;
+}
+
+.grid-element-sixth {
+    background-color: #FFFF3F;
+}
+
+.grid-element-seventh {
+    background-color: #55A630;
+}
+
+.grid-element-eight {
+    background-color: #AACC00;
+}
+
+.grid-element-ninth {
+    background-color: #BFD200;
+}
+
+.grid-element-tenth {
+    background-color: #D4D700;
+}
+
+.grid-element-eleventh {
+    background-color: #007F5F;
+}
